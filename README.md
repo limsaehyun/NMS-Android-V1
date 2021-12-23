@@ -46,5 +46,5 @@ NMS는 학교 공지사항/각종 정보 등을 쉽게 확인할 수 있는 서�
 
 
 ## License
-MCSS is released under the MIT License. http://www.opensource.org/licenses/mit-license
+NMS is released under the MIT License. http://www.opensource.org/licenses/mit-license
 
